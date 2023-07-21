@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rizal-A
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Fullstack Developer
-- 💞️ I’m looking to collaborate on Web Development (Fullstack/Front-end/Back-end Development)
+- 👀 I’m interested in Web Development and Data Analyst
+- 🌱 I’m currently learning Data Analyst
+- 💞️ I’m looking to collaborate on Web Development (Fullstack/Front-end/Back-end Development) and Data Analyst
 - 📫 How to reach me via linkedin https://www.linkedin.com/in/fakhrizal-ahadiat-46257612b/
 
 <!---
