@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rizal-A
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Web Development (Fullstack/Front-end/Back-end Development) and Data Science
+- 👀 I’m interested and passionate in Data Science and Web Development
+- 💞️ I’m looking to collaborate on Web Development (Fullstack/Front-end/Back-end Development) and Data Science Project
 - 📫 How to reach me via linkedin https://www.linkedin.com/in/fakhrizal-ahadiat-46257612b/
 
 <!---
