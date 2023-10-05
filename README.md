@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rizal-A
-- 👀 I’m interested and passionate in Data Science and Web Development
+- 👋 Hi, I’m Fakhrizal Ahadiat
+- 👀 I’m higly interested and passionate in Data Science and Web Development
 - 📫 How to reach me via linkedin https://www.linkedin.com/in/fakhrizal-ahadiat-46257612b/
 
 <!---
