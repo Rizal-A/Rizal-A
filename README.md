@@ -37,9 +37,17 @@ I'm Fakhrizal Ahadiat from Indonesia<br><br>- 🔭 I’m a passionate Aspiring D
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
+  <img src="https://pbs.twimg.com/profile_images/1330956917951270912/DyIZtTA8_400x400.png" height="40" alt="google-colab logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/2560px-Looker.svg.png" height="40" alt="looker studio logo"  />
+  <img width="12" />
+  <img src="https://nu-solutions.com/wp-content/uploads/2020/02/Tableau-logo.png" height="40" alt="tableau logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://zahin-zaman.vercel.app/static/media/sklearn_logo.fe6b45609dc8163d1a09.png" height="40" alt="scikit-learn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
   <img width="12" />
