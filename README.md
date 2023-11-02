@@ -50,12 +50,6 @@ I'm Fakhrizal Ahadiat from Indonesia<br><br>- 🔭 I’m a passionate Aspiring D
   <img src="https://zahin-zaman.vercel.app/static/media/sklearn_logo.fe6b45609dc8163d1a09.png" height="40" alt="scikit-learn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
 </div>
 <h3 align="left">🛠 Databases Used</h3>
 <div align="left">
