@@ -1,37 +1,13 @@
-<h1 align="left">Hey Folks 👋</h1>
-
-###
-
-<br clear="both">
-
+<h1 align="center">Hey Folks 👋</h1>
+<img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" align="right" height="300" style = "float:right"/>
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
+<p align="left">
+I'm Fakhrizal Ahadiat from Indonesia<br><br>- 🔭 I’m a passionate Aspiring Data Scientist<br>- 📚 I'm currently learning Data Science and Machine Learning<br>- ⚡ In my Free time I usually play FIFA and do projects related to Data Science from Kaggle Dataset.</p>
 <br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif"  />
-
-###
-
-<p align="left">I'm Fakhrizal Ahadiat from Indonesia<br><br>- 🔭 I’m a passionate Aspiring Data Scientist<br>- 📚 I'm currently learning Data Science and Machine Learning<br>- ⚡ In my Free time I usually play FIFA and do projects related to Data Science from Kaggle Dataset.</p>
-
-###
-
-<br clear="both">
-
 <h2 align="center">Connect with me here</h2>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img height="40" src="https://static.wixstatic.com/media/464da3_96c78850efbb4a049c1326fc434f79a5~mv2_d_2250_2250_s_2.gif"  />
 </div>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/fakhrizal-ahadiat/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -43,15 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
 <h3 align="left">🛠 Programming Skills</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -63,15 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-
-###
-
-<br clear="both">
-
 <h3 align="left">🛠 Tools and Libraries Used</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
@@ -89,15 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
 </div>
-
-###
-
-<br clear="both">
-
 <h3 align="left">🛠 Databases Used</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -105,18 +57,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo"  />
 </div>
-
-###
-
 <br clear="both">
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+<h2 align="center">🔥   My Stats :</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rizal-A&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Rizal-A&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
