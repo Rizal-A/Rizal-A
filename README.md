@@ -1,4 +1,4 @@
-<h1 align="center">Hey Folks 👋</h1>
+<h1 align="left">Hello Guys 👋</h1>
 <img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" align="right" height="300" style = "float:right"/>
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">
